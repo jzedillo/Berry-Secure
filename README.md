@@ -60,8 +60,5 @@ The Berry-Secure project aimed to establish a way to bypass the schools restrict
      - uncomment "net.ipv4.ip_forward=1" then exit (ctrl+ x)
 4. Start up Wireguard
      - `sudo wg-quick up wg0`
-
-
-
-
-
+5. To disconnect
+     - `sudo wg-quick down wg0`
