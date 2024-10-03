@@ -2,7 +2,7 @@
 Raspberry Pi 4 Wireguard VPN Setup with personal GUI
 
 ## Objective
-The Berry-Secure project aimed to establish a way to bypass the schools restricted wifi rule of blocking VPN sites. This was done with no bad intention, just as a matter of saftey, since VPNs help keep our personal information and data protected when roaming the internet. The primary focus of this project was to set up and configure a Raspberry Pi 4 (RPi4) to act as a VPN server which we can connect to whenever we are connected to public and unsecure wifi networks. The secondary goal was to build and manually configure Wireguard on our server to have more control over our data, as some VPN services are known to log user activity and/or sell our data to generate revenue. 
+The Berry-Secure project aimed to establish a way to bypass the schools restricted wifi rule of blocking VPN sites. This was done with no bad intention, just as a matter of saftey and education purposes, since VPNs help keep our personal information and data protected when roaming the internet. The primary focus of this project was to set up and configure a Raspberry Pi 4 (RPi4) to act as a VPN server which we can connect to whenever we are connected to public and unsecure wifi networks. The secondary goal was to build and manually configure Wireguard on our server to have more control over our data, as some VPN services are known to log user activity and/or sell our data to generate revenue. 
 
 ## Skills Learned
 - Configuring network settings and services on a Linux-based operating system.
